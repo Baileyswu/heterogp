@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[1]:
+import sys
+sys.path.append("../src/")
 
 import numpy as np
 import pylab as plt
